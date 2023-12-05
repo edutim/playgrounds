@@ -1,9 +1,9 @@
 {
-    "title": "APL Swift Playgrounds",
-    "subtitle": "Some experimental",
+    "title": "Tim's Playgrounds",
+    "subtitle": "Some fun playgroudns",
     "publisherName": "thart@apple.com",
-    "feedIdentifier": "com.apple.pie.github.pages",
-    "contactURL": "https://www.apple.com",
+    "feedIdentifier": "io.github.edutim",
+    "contactURL": "https://edutim.github.io",
     "formatVersion": "1.2",
     "documents": [
         {
