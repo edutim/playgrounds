@@ -1,0 +1,32 @@
+{
+    "title": "APL Swift Playgrounds",
+    "subtitle": "Some experimental",
+    "publisherName": "thart@apple.com",
+    "feedIdentifier": "com.apple.pie.github.pages",
+    "contactURL": "https://www.apple.com",
+    "formatVersion": "1.2",
+    "documents": [
+        {
+            "title": "The Printing Playground",
+            "overviewSubtitle": "A blank playground, but print() works",
+            "detailSubtitle": "Visible console.",
+            "description": "Print statements display in a Live View instead of disappearing.",
+            "contentIdentifier": "com.apple.pie.github.pages.PrintingPlayground",
+            "contentVersion": "1.0",
+            "url": "printingPlayground/The%20Printing%20Playground.playgroundbook.zip",
+            "publishedDate": "2020-10-28T16:03:27+04:00",
+            "lastUpdatedDate": "2020-10-28T16:03:27+04:00",
+            "thumbnailURL": "printingPlayground/icon.png",
+            "bannerImageURL": "printingPlayground/banner.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": [
+                "preview.png"
+            ]
+        }
+    ]
+}
