@@ -11,7 +11,7 @@
             "overviewSubtitle": "Calculate perimeter with an app.",
             "detailSubtitle": "",
             "description": "Calculate perimeter using the power of SwiftUI.",
-            "contentIdentifier": "io.github.edutim.perimeter",
+            "contentIdentifier": "io.github.edutim.perimeter_template",
             "contentVersion": "1.0",
             "url": "Perimeter_Template.swiftpm.zip",
             "publishedDate": "2023-11-28T16:03:27+04:00",
