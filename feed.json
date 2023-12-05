@@ -7,17 +7,17 @@
     "formatVersion": "1.2",
     "documents": [
         {
-            "title": "The Printing Playground",
-            "overviewSubtitle": "A blank playground, but print() works",
-            "detailSubtitle": "Visible console.",
-            "description": "Print statements display in a Live View instead of disappearing.",
-            "contentIdentifier": "io.github.edutim.PrintingPlayground",
+            "title": "Perimeter Template",
+            "overviewSubtitle": "Calculate perimeter with an app.",
+            "detailSubtitle": "",
+            "description": "Calculate perimeter using the power of SwiftUI.",
+            "contentIdentifier": "io.github.edutim.perimeter",
             "contentVersion": "1.0",
-            "url": "printingPlayground/The%20Printing%20Playground.playgroundbook.zip",
-            "publishedDate": "2020-10-28T16:03:27+04:00",
-            "lastUpdatedDate": "2020-10-28T16:03:27+04:00",
-            "thumbnailURL": "printingPlayground/icon.png",
-            "bannerImageURL": "printingPlayground/banner.png",
+            "url": "Perimeter_Template.swiftpm.zip",
+            "publishedDate": "2023-11-28T16:03:27+04:00",
+            "lastUpdatedDate": "2023-11-28T16:03:27+04:00",
+            "thumbnailURL": "https://i.ibb.co/JRMNmCX/perimeter.png",
+            "bannerImageURL": "https://i.ibb.co/JRMNmCX/perimeter.png",
             "additionalInformation": [
                 {
                     "name": "Languages",
@@ -38,8 +38,8 @@
             "url": "Perimeter.swiftpm.zip",
             "publishedDate": "2023-11-28T16:03:27+04:00",
             "lastUpdatedDate": "2023-11-28T16:03:27+04:00",
-            "thumbnailURL": "printingPlayground/icon.png",
-            "bannerImageURL": "printingPlayground/banner.png",
+            "thumbnailURL": "https://i.ibb.co/JRMNmCX/perimeter.png",
+            "bannerImageURL": "https://i.ibb.co/JRMNmCX/perimeter.png",
             "additionalInformation": [
                 {
                     "name": "Languages",
