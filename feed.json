@@ -27,6 +27,28 @@
             "previewImageURLs": [
                 "preview.png"
             ]
+        },
+        {
+            "title": "Perimeter",
+            "overviewSubtitle": "Calculate perimeter with an app.",
+            "detailSubtitle": "",
+            "description": "Calculate perimeter using the power of SwiftUI.",
+            "contentIdentifier": "io.github.edutim.perimeter",
+            "contentVersion": "1.0",
+            "url": "Perimeter.swiftpm.zip",
+            "publishedDate": "2023-11-28T16:03:27+04:00",
+            "lastUpdatedDate": "2023-11-28T16:03:27+04:00",
+            "thumbnailURL": "printingPlayground/icon.png",
+            "bannerImageURL": "printingPlayground/banner.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": [
+                "preview.png"
+            ]
         }
     ]
 }
