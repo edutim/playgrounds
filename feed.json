@@ -6,7 +6,28 @@
     "contactURL": "https://edutim.github.io",
     "formatVersion": "1.2",
     "documents": [
-        
+        {
+            "title": "Self Portrait",
+            "overviewSubtitle": "A portrait made with SwiftUI.",
+            "detailSubtitle": "",
+            "description": "This is an example finished project from the Everyone Can Code Project: Build with Stacks and Shapes. \n\n It also goes further by adding a speech synthesizer.",
+            "contentIdentifier": "io.github.edutim.selfPortrait",
+            "contentVersion": "1.0",
+            "url": "SelfPortrait/SelfPortrait.swiftpm.zip",
+            "publishedDate": "2024-01-17T16:03:27+04:00",
+            "lastUpdatedDate": "2024-01-17T16:03:27+04:00",
+            "thumbnailURL": "SelfPortrait/icon.png",
+            "bannerImageURL": "SelfPortrait/banner.jpg",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": [
+                "SelfPortrait/preview.png",
+            ]
+        },
         {
             "title": "Perimeter",
             "overviewSubtitle": "A SwiftUI app to Calculate perimeter.",
@@ -38,8 +59,8 @@
             "contentIdentifier": "io.github.edutim.facePaintAR",
             "contentVersion": "1.0",
             "url": "FacePaintAR/FacePaintAR.swiftpm.zip",
-            "publishedDate": "2023-11-28T16:03:27+04:00",
-            "lastUpdatedDate": "2023-11-28T16:03:27+04:00",
+            "publishedDate": "2024-01-17T16:03:27+04:00",
+            "lastUpdatedDate": "2024-01-17T16:03:27+04:00",
             "thumbnailURL": "FacePaintAR/icon.png",
             "bannerImageURL": "FacePaintAR/icon.png",
             "additionalInformation": [
@@ -50,7 +71,7 @@
             ],
             "previewImageURLs": [
                 "FacePaintAR/preview1.png",
-                "FacePaintAR/preview1.png"
+                "FacePaintAR/preview2.png"
             ]
         }
     ]
