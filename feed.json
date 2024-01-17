@@ -49,6 +49,28 @@
             "previewImageURLs": [
                 "preview.png"
             ]
+        },
+        {
+            "title": "Face PaintAR",
+            "overviewSubtitle": "Calculate perimeter with an app.",
+            "detailSubtitle": "",
+            "description": "Calculate perimeter using the power of SwiftUI.",
+            "contentIdentifier": "io.github.edutim.facePaintAR",
+            "contentVersion": "1.0",
+            "url": "FacePaintAR/FacePaintAR.swiftpm.zip",
+            "publishedDate": "2023-11-28T16:03:27+04:00",
+            "lastUpdatedDate": "2023-11-28T16:03:27+04:00",
+            "thumbnailURL": "https://i.ibb.co/JRMNmCX/perimeter.png",
+            "bannerImageURL": "https://i.ibb.co/JRMNmCX/perimeter.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": [
+                "preview.png"
+            ]
         }
     ]
 }
