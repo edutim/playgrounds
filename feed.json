@@ -26,22 +26,22 @@
                 }
             ],
             "previewImageURLs": [
-                "preview1.png",
-                "preview2.png"
+                "Perimeter/preview1.png",
+                "Perimeter/preview2.png"
             ]
         },
         {
             "title": "Face PaintAR",
-            "overviewSubtitle": "Calculate perimeter with an app.",
+            "overviewSubtitle": "Use the front-facing camera to draw on your face.",
             "detailSubtitle": "",
-            "description": "Calculate perimeter using the power of SwiftUI.",
+            "description": "This is an intermediate-advanced project. It uses RealityKit, ARKit, Combine, PencilKit and SwiftUI. Best used for demonstration purposes.",
             "contentIdentifier": "io.github.edutim.facePaintAR",
             "contentVersion": "1.0",
             "url": "FacePaintAR/FacePaintAR.swiftpm.zip",
             "publishedDate": "2023-11-28T16:03:27+04:00",
             "lastUpdatedDate": "2023-11-28T16:03:27+04:00",
-            "thumbnailURL": "https://i.ibb.co/JRMNmCX/perimeter.png",
-            "bannerImageURL": "https://i.ibb.co/JRMNmCX/perimeter.png",
+            "thumbnailURL": "FacePaintAR/icon.png",
+            "bannerImageURL": "FacePaintAR/icon.png",
             "additionalInformation": [
                 {
                     "name": "Languages",
@@ -49,7 +49,8 @@
                 }
             ],
             "previewImageURLs": [
-                "preview.png"
+                "FacePaintAR/preview1.png",
+                "FacePaintAR/preview1.png"
             ]
         }
     ]
