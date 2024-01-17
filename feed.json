@@ -6,40 +6,19 @@
     "contactURL": "https://edutim.github.io",
     "formatVersion": "1.2",
     "documents": [
-        {
-            "title": "Perimeter Template",
-            "overviewSubtitle": "Calculate perimeter with an app.",
-            "detailSubtitle": "",
-            "description": "Calculate perimeter using the power of SwiftUI.",
-            "contentIdentifier": "io.github.edutim.perimeter-template",
-            "contentVersion": "1.0",
-            "url": "Perimeter_Template.swiftpm.zip",
-            "publishedDate": "2023-11-28T16:03:27+04:00",
-            "lastUpdatedDate": "2023-11-28T16:03:27+04:00",
-            "thumbnailURL": "https://i.ibb.co/JRMNmCX/perimeter.png",
-            "bannerImageURL": "https://i.ibb.co/JRMNmCX/perimeter.png",
-            "additionalInformation": [
-                {
-                    "name": "Languages",
-                    "value": "English"
-                }
-            ],
-            "previewImageURLs": [
-                "preview.png"
-            ]
-        },
+        
         {
             "title": "Perimeter",
-            "overviewSubtitle": "Calculate perimeter with an app.",
+            "overviewSubtitle": "Calculate perimeter.",
             "detailSubtitle": "",
-            "description": "Calculate perimeter using the power of SwiftUI.",
+            "description": "This project demonstrates putting small parts of the UI into different files.",
             "contentIdentifier": "io.github.edutim.perimeter",
             "contentVersion": "1.0",
-            "url": "Perimeter.swiftpm.zip",
-            "publishedDate": "2023-11-28T16:03:27+04:00",
-            "lastUpdatedDate": "2023-11-28T16:03:27+04:00",
-            "thumbnailURL": "https://i.ibb.co/JRMNmCX/perimeter.png",
-            "bannerImageURL": "https://i.ibb.co/JRMNmCX/perimeter.png",
+            "url": "Perimeter/Perimeter.swiftpm.zip",
+            "publishedDate": "2024-1-17T16:03:27+04:00",
+            "lastUpdatedDate": "2024-1-17T16:03:27+04:00",
+            "thumbnailURL": "Perimeter/icon.png",
+            "bannerImageURL": "Perimeter/banner.jpg",
             "additionalInformation": [
                 {
                     "name": "Languages",
@@ -47,7 +26,8 @@
                 }
             ],
             "previewImageURLs": [
-                "preview.png"
+                "preview1.png".
+                "preview2.png"
             ]
         },
         {
