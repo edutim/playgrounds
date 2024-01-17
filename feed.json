@@ -9,9 +9,9 @@
         
         {
             "title": "Perimeter",
-            "overviewSubtitle": "Calculate perimeter.",
+            "overviewSubtitle": "A SwiftUI app to Calculate perimeter.",
             "detailSubtitle": "",
-            "description": "This project demonstrates putting small parts of the UI into different files.",
+            "description": "This project demonstrates putting small parts of the UI into different files.\n\nThis project uses a ViewModel and other intermidiate Swift concepts.",
             "contentIdentifier": "io.github.edutim.perimeter",
             "contentVersion": "1.0",
             "url": "Perimeter/Perimeter.swiftpm.zip",
