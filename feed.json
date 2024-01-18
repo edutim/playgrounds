@@ -7,10 +7,32 @@
     "formatVersion": "1.2",
     "documents": [
         {
+            "title": "Affirmations",
+            "overviewSubtitle": "A app for Affirmations.",
+            "detailSubtitle": "",
+            "description": "In the Everyone Can Code Project: Design a Simple App, you build a prototype in Keynote. This project is an example of the Affirmations app built with SwiftUI",
+            "contentIdentifier": "io.github.edutim.affirmations",
+            "contentVersion": "1.0",
+            "url": "Affirmations/Affirmations.swiftpm.zip",
+            "publishedDate": "2024-01-17T16:03:27+04:00",
+            "lastUpdatedDate": "2024-01-17T16:03:27+04:00",
+            "thumbnailURL": "Affirmations/icon.png",
+            "bannerImageURL": "Affirmations/banner.jpg",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": [
+                "Affirmations/preview.png",
+            ]
+        },
+        {
             "title": "Self Portrait",
             "overviewSubtitle": "A portrait made with SwiftUI.",
             "detailSubtitle": "",
-            "description": "This is an example finished project from the Everyone Can Code Project: Build with Stacks and Shapes\nSee: https://education.apple.com/learning-center/T049529A?backTo=%2Flearning-center%2FT049531A%3FbackTo%3D%2Flearning-center%2FT049529A%3FbackTo%3D%2Flearning-center%2FT021339A-en_US%3FbackTo%3D%2Flearning-center. \n\n Go Further: Add a speech synthesizer.",
+            "description": "This is an example finished project from the Everyone Can Code Project: Build with Stacks and Shapes \n\n Go Further: Add a speech synthesizer.",
             "contentIdentifier": "io.github.edutim.selfPortrait",
             "contentVersion": "1.0",
             "url": "SelfPortrait/SelfPortrait.swiftpm.zip",
@@ -26,6 +48,28 @@
             ],
             "previewImageURLs": [
                 "SelfPortrait/preview.png",
+            ]
+        },
+        {
+            "title": "Mad Libs",
+            "overviewSubtitle": "Tell a silly story.",
+            "detailSubtitle": "",
+            "description": "Ask a friend for parts of speech and tell a simple story.",
+            "contentIdentifier": "io.github.edutim.perimeter",
+            "contentVersion": "1.0",
+            "url": "MadLibs/MadLibs.swiftpm.zip",
+            "publishedDate": "2024-01-17T16:03:27+04:00",
+            "lastUpdatedDate": "2024-01-17T16:03:27+04:00",
+            "thumbnailURL": "MadLibs/icon.png",
+            "bannerImageURL": "MadLibs/banner.jpg",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": [
+                "MadLibs/preview.png"
             ]
         },
         {
@@ -62,6 +106,29 @@
             "publishedDate": "2024-01-17T16:03:27+04:00",
             "lastUpdatedDate": "2024-01-17T16:03:27+04:00",
             "thumbnailURL": "FacePaintAR/icon.png",
+            "bannerImageURL": "FacePaintAR/icon.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": [
+                "FacePaintAR/preview1.png",
+                "FacePaintAR/preview2.png"
+            ]
+        },
+        {
+            "title": "Learn to Code 1 - Completed",
+            "overviewSubtitle": "LTC1 - All Done",
+            "detailSubtitle": "",
+            "description": "In Learn to Code 1, you'll explore the fundamentals of Swift, the programming language used to create apps for Apple products. ",
+            "contentIdentifier": "io.github.edutim.ltc1Complete",
+            "contentVersion": "1.0",
+            "url": "LTC1Complete/LearntoCode1Completed.zip",
+            "publishedDate": "2024-01-17T16:03:27+04:00",
+            "lastUpdatedDate": "2024-01-17T16:03:27+04:00",
+            "thumbnailURL": "LTC1Complete/icon.png",
             "bannerImageURL": "FacePaintAR/icon.png",
             "additionalInformation": [
                 {
