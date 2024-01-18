@@ -10,7 +10,7 @@
             "title": "Self Portrait",
             "overviewSubtitle": "A portrait made with SwiftUI.",
             "detailSubtitle": "",
-            "description": "This is an example finished project from the [Everyone Can Code Project: Build with Stacks and Shapes](https://education.apple.com/learning-center/T049529A?backTo=%2Flearning-center%2FT049531A%3FbackTo%3D%2Flearning-center%2FT049529A%3FbackTo%3D%2Flearning-center%2FT021339A-en_US%3FbackTo%3D%2Flearning-center). \n\n It also goes further by adding a speech synthesizer.",
+            "description": "This is an example finished project from the Everyone Can Code Project: Build with Stacks and Shapes\nSee: https://education.apple.com/learning-center/T049529A?backTo=%2Flearning-center%2FT049531A%3FbackTo%3D%2Flearning-center%2FT049529A%3FbackTo%3D%2Flearning-center%2FT021339A-en_US%3FbackTo%3D%2Flearning-center. \n\n Go Further: Add a speech synthesizer.",
             "contentIdentifier": "io.github.edutim.selfPortrait",
             "contentVersion": "1.0",
             "url": "SelfPortrait/SelfPortrait.swiftpm.zip",
