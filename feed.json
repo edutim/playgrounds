@@ -117,6 +117,29 @@
                 "FacePaintAR/preview1.png",
                 "FacePaintAR/preview2.png"
             ]
+        },
+        {
+            "title": "Wordle",
+            "overviewSubtitle": "Play Infinite Wordle",
+            "detailSubtitle": "",
+            "description": "This is an intermediate-advanced project. It include many app design pattern and techniques like ViewModels, custom Styles, GeometryEffects and more. It even uses the same words are the NY Times version.",
+            "contentIdentifier": "io.github.edutim.wordle",
+            "contentVersion": "1.0",
+            "url": "Wordle/WORDLE.swiftpm.zip",
+            "publishedDate": "2024-01-17T16:03:27+04:00",
+            "lastUpdatedDate": "2024-01-17T16:03:27+04:00",
+            "thumbnailURL": "Wordle/icon.png",
+            "bannerImageURL": "Wordle/icon.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": [
+                "Wordle/preview1.png",
+                "Wordle/preview2.png"
+            ]
         }
     ]
 }
