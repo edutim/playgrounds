@@ -140,6 +140,33 @@
                 "Wordle/preview1.png",
                 "Wordle/preview2.png"
             ]
+        },
+        {
+            "title": "APL Compass",
+            "overviewSubtitle": "APL Compass in app form",
+            "detailSubtitle": "",
+            "description": "APL Compass as a SwiftUI app. Uses intermedate techniques.",
+            "contentIdentifier": "io.github.edutim.aplcompass",
+            "contentVersion": "1.0",
+            "url": "APLCOMPASS/APLCompass.swiftpm.zip",
+            "publishedDate": "2024-01-18T16:03:27+04:00",
+            "lastUpdatedDate": "2024-01-18T16:03:27+04:00",
+            "thumbnailURL": "APLCompass/icon.png",
+            "bannerImageURL": "APLCompass/icon.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": [
+                "APLCompass/preview1.png",
+                "APLCompass/preview2.png",
+                "APLCompass/preview3.png",
+                "APLCompass/preview4.png",
+                "APLCompass/preview5.png"
+            ]
         }
+        
     ]
 }
