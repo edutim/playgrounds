@@ -119,11 +119,11 @@
             ]
         },
         {
-            "title": "Learn to Code 1 - Completed",
-            "overviewSubtitle": "LTC1 - All Done",
+            "title": "Learn to Code 1 Completed",
+            "overviewSubtitle": "LTC1 All Done",
             "detailSubtitle": "",
             "description": "In Learn to Code 1, you'll explore the fundamentals of Swift, the programming language used to create apps for Apple products.",
-            "contentIdentifier": "io.github.edutim.ltc1Complete",
+            "contentIdentifier": "io.github.edutim.ltcComplete",
             "contentVersion": "1.0",
             "url": "LTC1Complete/LearntoCode1Completed.zip",
             "publishedDate": "2024-01-17T16:03:27+04:00",
