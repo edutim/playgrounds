@@ -117,28 +117,6 @@
                 "FacePaintAR/preview1.png",
                 "FacePaintAR/preview2.png"
             ]
-        },
-        {
-            "title": "Learn to Code 1 Completed",
-            "overviewSubtitle": "LTC1 All Done",
-            "detailSubtitle": "",
-            "description": "In Learn to Code 1, you'll explore the fundamentals of Swift, the programming language used to create apps for Apple products.",
-            "contentIdentifier": "io.github.edutim.ltcComplete",
-            "contentVersion": "1.0",
-            "url": "https://bit.ly/424RioJ",
-            "publishedDate": "2024-01-17T16:03:27+04:00",
-            "lastUpdatedDate": "2024-01-17T16:03:27+04:00",
-            "thumbnailURL": "LTC1Complete/icon.png",
-            "bannerImageURL": "LTC1Complete/icon.png",
-            "additionalInformation": [
-                {
-                    "name": "Languages",
-                    "value": "English"
-                }
-            ],
-            "previewImageURLs": [
-                "LTC1Complete/preview.png"
-            ]
         }
     ]
 }
