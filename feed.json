@@ -129,7 +129,7 @@
             "publishedDate": "2024-01-17T16:03:27+04:00",
             "lastUpdatedDate": "2024-01-17T16:03:27+04:00",
             "thumbnailURL": "LTC1Complete/icon.png",
-            "bannerImageURL": "FacePaintAR/icon.png",
+            "bannerImageURL": "LTC1Complete/icon.png",
             "additionalInformation": [
                 {
                     "name": "Languages",
@@ -137,8 +137,7 @@
                 }
             ],
             "previewImageURLs": [
-                "FacePaintAR/preview1.png",
-                "FacePaintAR/preview2.png"
+                "LTC1Complete/preview.png"
             ]
         }
     ]
